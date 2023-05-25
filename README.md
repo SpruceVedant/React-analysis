@@ -5,7 +5,7 @@ Installation
 1. Clone the repository:
   `git clone `
 
-2. Install the dependencies for both the client and server:
+2. Install the dependencies for both the client:
   `npm install`
 
 3. Start on localhost:
