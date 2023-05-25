@@ -13,6 +13,3 @@ Installation
 
 4. Open the web app in your browser:
   `http://localhost:3000`
-
-
-This can be used for real time usage upon embedding data.
